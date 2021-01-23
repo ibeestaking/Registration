@@ -559,3 +559,16 @@
  "github": "Boinnex"                                              
 }
 ] 
+"ticker": "BUZZ",                                                      
+ "poolId": "pool1zfd4yr2m6tsvtasg2dfkt6knesrl86dky4w6dqkgtjzuwxc3zaw", 
+ "social": {                                                           
+  "facebook": "", 
+  "twitter": "beestaking",
+   "website": "https://www.ibeestaking.com",  
+   "reddit": "",  
+   "instagram": "",
+   "youtube": ""
+ },
+ "telegram": "Matt (iBeestaking)",                                            
+ "operatorName": "Matt Stringer",                                
+ "github": "ibeestaking"
